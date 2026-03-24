@@ -125,4 +125,3 @@ price_thread.start()
 
 updater.start_polling()
 updater.idle()
-``
